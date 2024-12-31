@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 streamlit = "^1.41.1"
+plotly-express = "^0.4.1"
 
 [tool.poetry.group.notebook.dependencies]
 ipykernel = "^6.29.5"
