@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "satellite_reentry"
 version = "0.1.0"
-description = "Satellite Reentry altitude calculator"
+description = "SatEvo log file visualizer"
 authors = ["Janos Tolgyesi <janos.tolgyesi@gmail.com>"]
 readme = "README.md"
 

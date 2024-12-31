@@ -1,6 +1,6 @@
 # Satellite Reentry
 
-Satellite Reentry altitude calculator
+SatEvo log file visualizer
 
 ## Project structure
 
@@ -11,3 +11,7 @@ Satellite Reentry altitude calculator
 ## Installation
 
 `poetry install`
+
+## Run
+
+`streamlit run st_app.py`
