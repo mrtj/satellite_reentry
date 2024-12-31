@@ -6,10 +6,15 @@ authors = ["Janos Tolgyesi <janos.tolgyesi@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "~3.10.0"
+streamlit = "^1.41.1"
 
 [tool.poetry.group.notebook.dependencies]
 ipykernel = "^6.29.5"
+
+
+[tool.poetry.group.dev.dependencies]
+pandas-stubs = "^2.2.3.241126"
 
 [build-system]
 requires = ["poetry-core"]
